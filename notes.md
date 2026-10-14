@@ -4,7 +4,7 @@ CRUD
 O que tem uma reclamacao?
 - Titulo
 - Tipo (Elogio, sugestao, reclamacao)
-- ID da reclamacao
+- ID da reclamacao - ID vai incrementando
 - Descricao
 
 O que podemos fazer no sistema?
@@ -12,6 +12,7 @@ O que podemos fazer no sistema?
 - Buscar todas
 - Buscar por ID
 - Deletar por ID
+- Update
 
 Objetos:
 - Reclamacoes
